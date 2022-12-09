@@ -1,0 +1,15 @@
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\bin\Debug\net6.0\Game Tebak Kata.exe
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\bin\Debug\net6.0\Game Tebak Kata.deps.json
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\bin\Debug\net6.0\Game Tebak Kata.runtimeconfig.json
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\bin\Debug\net6.0\Game Tebak Kata.dll
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\bin\Debug\net6.0\Game Tebak Kata.pdb
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\obj\Debug\net6.0\Game Tebak Kata.csproj.AssemblyReference.cache
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\obj\Debug\net6.0\Game Tebak Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\obj\Debug\net6.0\Game Tebak Kata.AssemblyInfoInputs.cache
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\obj\Debug\net6.0\Game Tebak Kata.AssemblyInfo.cs
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\obj\Debug\net6.0\Game Tebak Kata.csproj.CoreCompileInputs.cache
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\obj\Debug\net6.0\Game Tebak Kata.dll
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\obj\Debug\net6.0\refint\Game Tebak Kata.dll
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\obj\Debug\net6.0\Game Tebak Kata.pdb
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\obj\Debug\net6.0\Game Tebak Kata.genruntimeconfig.cache
+C:\Users\Ikram\Desktop\things\Game Tebak Kata\obj\Debug\net6.0\ref\Game Tebak Kata.dll

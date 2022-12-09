@@ -1,0 +1,15 @@
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\bin\Debug\net6.0\Nomor Tiga.exe
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\bin\Debug\net6.0\Nomor Tiga.deps.json
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\bin\Debug\net6.0\Nomor Tiga.runtimeconfig.json
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\bin\Debug\net6.0\Nomor Tiga.dll
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\bin\Debug\net6.0\Nomor Tiga.pdb
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\obj\Debug\net6.0\Nomor Tiga.csproj.AssemblyReference.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\obj\Debug\net6.0\Nomor Tiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\obj\Debug\net6.0\Nomor Tiga.AssemblyInfoInputs.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\obj\Debug\net6.0\Nomor Tiga.AssemblyInfo.cs
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\obj\Debug\net6.0\Nomor Tiga.csproj.CoreCompileInputs.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\obj\Debug\net6.0\Nomor Tiga.dll
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\obj\Debug\net6.0\refint\Nomor Tiga.dll
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\obj\Debug\net6.0\Nomor Tiga.pdb
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\obj\Debug\net6.0\Nomor Tiga.genruntimeconfig.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Tiga\obj\Debug\net6.0\ref\Nomor Tiga.dll

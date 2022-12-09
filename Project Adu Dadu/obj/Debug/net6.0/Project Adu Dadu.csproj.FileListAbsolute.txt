@@ -1,0 +1,15 @@
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\bin\Debug\net6.0\Project Adu Dadu.exe
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\bin\Debug\net6.0\Project Adu Dadu.deps.json
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\bin\Debug\net6.0\Project Adu Dadu.runtimeconfig.json
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\bin\Debug\net6.0\Project Adu Dadu.dll
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\bin\Debug\net6.0\Project Adu Dadu.pdb
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\obj\Debug\net6.0\Project Adu Dadu.csproj.AssemblyReference.cache
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\obj\Debug\net6.0\Project Adu Dadu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\obj\Debug\net6.0\Project Adu Dadu.AssemblyInfoInputs.cache
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\obj\Debug\net6.0\Project Adu Dadu.AssemblyInfo.cs
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\obj\Debug\net6.0\Project Adu Dadu.csproj.CoreCompileInputs.cache
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\obj\Debug\net6.0\Project Adu Dadu.dll
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\obj\Debug\net6.0\refint\Project Adu Dadu.dll
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\obj\Debug\net6.0\Project Adu Dadu.pdb
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\obj\Debug\net6.0\Project Adu Dadu.genruntimeconfig.cache
+C:\Users\Ikram\Desktop\things\Project Adu Dadu\obj\Debug\net6.0\ref\Project Adu Dadu.dll

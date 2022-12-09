@@ -1,0 +1,15 @@
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\bin\Debug\net6.0\Nomor Empat.exe
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\bin\Debug\net6.0\Nomor Empat.deps.json
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\bin\Debug\net6.0\Nomor Empat.runtimeconfig.json
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\bin\Debug\net6.0\Nomor Empat.dll
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\bin\Debug\net6.0\Nomor Empat.pdb
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\obj\Debug\net6.0\Nomor Empat.csproj.AssemblyReference.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\obj\Debug\net6.0\Nomor Empat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\obj\Debug\net6.0\Nomor Empat.AssemblyInfoInputs.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\obj\Debug\net6.0\Nomor Empat.AssemblyInfo.cs
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\obj\Debug\net6.0\Nomor Empat.csproj.CoreCompileInputs.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\obj\Debug\net6.0\Nomor Empat.dll
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\obj\Debug\net6.0\refint\Nomor Empat.dll
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\obj\Debug\net6.0\Nomor Empat.pdb
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\obj\Debug\net6.0\Nomor Empat.genruntimeconfig.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Empat\obj\Debug\net6.0\ref\Nomor Empat.dll

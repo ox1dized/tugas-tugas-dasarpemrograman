@@ -1,0 +1,15 @@
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\bin\Debug\net6.0\Nomor Satu.exe
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\bin\Debug\net6.0\Nomor Satu.deps.json
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\bin\Debug\net6.0\Nomor Satu.runtimeconfig.json
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\bin\Debug\net6.0\Nomor Satu.dll
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\bin\Debug\net6.0\Nomor Satu.pdb
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\obj\Debug\net6.0\Nomor Satu.csproj.AssemblyReference.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\obj\Debug\net6.0\Nomor Satu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\obj\Debug\net6.0\Nomor Satu.AssemblyInfoInputs.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\obj\Debug\net6.0\Nomor Satu.AssemblyInfo.cs
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\obj\Debug\net6.0\Nomor Satu.csproj.CoreCompileInputs.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\obj\Debug\net6.0\Nomor Satu.dll
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\obj\Debug\net6.0\refint\Nomor Satu.dll
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\obj\Debug\net6.0\Nomor Satu.pdb
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\obj\Debug\net6.0\Nomor Satu.genruntimeconfig.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Satu\obj\Debug\net6.0\ref\Nomor Satu.dll

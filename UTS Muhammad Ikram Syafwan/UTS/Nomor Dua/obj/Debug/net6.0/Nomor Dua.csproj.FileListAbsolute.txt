@@ -1,0 +1,15 @@
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\bin\Debug\net6.0\Nomor Dua.exe
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\bin\Debug\net6.0\Nomor Dua.deps.json
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\bin\Debug\net6.0\Nomor Dua.runtimeconfig.json
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\bin\Debug\net6.0\Nomor Dua.dll
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\bin\Debug\net6.0\Nomor Dua.pdb
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\obj\Debug\net6.0\Nomor Dua.csproj.AssemblyReference.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\obj\Debug\net6.0\Nomor Dua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\obj\Debug\net6.0\Nomor Dua.AssemblyInfoInputs.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\obj\Debug\net6.0\Nomor Dua.AssemblyInfo.cs
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\obj\Debug\net6.0\Nomor Dua.csproj.CoreCompileInputs.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\obj\Debug\net6.0\Nomor Dua.dll
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\obj\Debug\net6.0\refint\Nomor Dua.dll
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\obj\Debug\net6.0\Nomor Dua.pdb
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\obj\Debug\net6.0\Nomor Dua.genruntimeconfig.cache
+C:\Users\Ikram\Desktop\things\coding\UTS\Nomor Dua\obj\Debug\net6.0\ref\Nomor Dua.dll
